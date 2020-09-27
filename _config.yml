@@ -1,5 +1,5 @@
 # Base configs
-baseurl: "https://photography.p360.mg"
+baseurl: "http://p360dotmg.com"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 #google_analytics: "need to be update"
